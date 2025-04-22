@@ -11,7 +11,7 @@
 ---
 
 <h4 align="center">
-🌍 <a href="README.fr.md">Français</a> | <a href="README.md">English</a> | <a href="locales/README.es.md">Español</a> | <a href="LOCALE-MENU.md">More...</a>
+🌍 <a href="README.fr.md">Français</a> | <a href="README.md">English</a> | <a href="LOCALE-MENU.md">More...</a>
 </h4>
 
 ---

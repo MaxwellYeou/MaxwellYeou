@@ -38,16 +38,21 @@ I am focused on building reliable, automated and secure infrastructure.
 ![Terraform](https://img.shields.io/badge/Terraform-111827?style=for-the-badge&logo=terraform&logoColor=844FBA)
 ![Ansible](https://img.shields.io/badge/Ansible-111827?style=for-the-badge&logo=ansible&logoColor=EE0000)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Azure](https://img.shields.io/badge/Azure-111827?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
+![VMware](https://img.shields.io/badge/VMware-111827?style=for-the-badge&logo=vmware&logoColor=white)
 
 ### Security & DevSecOps
 
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-111827?style=for-the-badge&logo=owasp&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-111827?style=for-the-badge&logo=owasp&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-111827?style=for-the-badge&logo=zap&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-111827?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![Dependabot](https://img.shields.io/badge/Dependabot-111827?style=for-the-badge&logo=dependabot&logoColor=025E8C)
-![Security](https://img.shields.io/badge/Supply_Chain_Security-111827?style=for-the-badge&logo=github&logoColor=white)
+![Supply Chain Security](https://img.shields.io/badge/Supply_Chain_Security-111827?style=for-the-badge&logo=github&logoColor=white)
 
-### Development
+### Development & Scripting
 
+![Bash](https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+![PowerShell](https://img.shields.io/badge/PowerShell-111827?style=for-the-badge&logo=powershell&logoColor=5391FE)
 ![C#](https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=csharp&logoColor=239120)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
@@ -60,9 +65,9 @@ I am focused on building reliable, automated and secure infrastructure.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MaxwellYeou&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Maxwell Yeou GitHub stats" />
+<img height="170" src="https://github-readme-stats-jwpl44d3r-maxwell-yeou-s-projects.vercel.app/api?username=MaxwellYeou&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" alt="Maxwell Yeou GitHub stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellYeou&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+<img height="170" src="https://github-readme-stats-jwpl44d3r-maxwell-yeou-s-projects.vercel.app/api/top-langs/?username=MaxwellYeou&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
 
 <br/>
 
@@ -81,19 +86,19 @@ I am focused on building reliable, automated and secure infrastructure.
 <div align="center">
 
 <a href="https://github.com/MaxwellYeou/security_template_repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaxwellYeou&repo=security_template_repo&theme=tokyonight&hide_border=true" alt="security_template_repo" />
+  <img src="https://github-readme-stats-jwpl44d3r-maxwell-yeou-s-projects.vercel.app/api/pin/?username=MaxwellYeou&repo=security_template_repo&theme=tokyonight&hide_border=true" alt="security_template_repo" />
 </a>
 
 <a href="https://github.com/MaxwellYeou/Tp_Docker_Swarm_Groupe5_Hamara">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaxwellYeou&repo=Tp_Docker_Swarm_Groupe5_Hamara&theme=tokyonight&hide_border=true" alt="Tp_Docker_Swarm_Groupe5_Hamara" />
+  <img src="https://github-readme-stats-jwpl44d3r-maxwell-yeou-s-projects.vercel.app/api/pin/?username=MaxwellYeou&repo=Tp_Docker_Swarm_Groupe5_Hamara&theme=tokyonight&hide_border=true" alt="Tp_Docker_Swarm_Groupe5_Hamara" />
 </a>
 
 <a href="https://github.com/MaxwellYeou/secure-repository-supply-chain">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaxwellYeou&repo=secure-repository-supply-chain&theme=tokyonight&hide_border=true" alt="secure-repository-supply-chain" />
+  <img src="https://github-readme-stats-jwpl44d3r-maxwell-yeou-s-projects.vercel.app/api/pin/?username=MaxwellYeou&repo=secure-repository-supply-chain&theme=tokyonight&hide_border=true" alt="secure-repository-supply-chain" />
 </a>
 
 <a href="https://github.com/MaxwellYeou/angular-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaxwellYeou&repo=angular-project&theme=tokyonight&hide_border=true" alt="angular-project" />
+  <img src="https://github-readme-stats-jwpl44d3r-maxwell-yeou-s-projects.vercel.app/api/pin/?username=MaxwellYeou&repo=angular-project&theme=tokyonight&hide_border=true" alt="angular-project" />
 </a>
 
 </div>
@@ -110,6 +115,7 @@ focus:
   - Kubernetes & Containers
   - Infrastructure as Code
   - Monitoring & Observability
+  - Security Automation
 
 tools:
   - Linux
@@ -122,3 +128,36 @@ tools:
   - OWASP ZAP
   - Prometheus
   - Grafana
+  - Azure
+  - VMware
+```
+
+---
+
+## 🎯 Current Interests
+
+- Hardening CI/CD pipelines
+- Automating security checks in GitHub Actions
+- Improving cloud and container infrastructure
+- Building reliable monitoring and alerting workflows
+- Managing infrastructure with clean, reusable automation
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-MaxwellYeou-181717?style=for-the-badge&logo=github)](https://github.com/MaxwellYeou)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maxwell%20Yeou-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxwell-yeou-b1128a191/)
+[![Email](https://img.shields.io/badge/Email-maxwellyeou%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxwellyeou@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile 🚀
+
+</div>
